@@ -32,7 +32,7 @@ const App = () => (
   //  onSubmit: (value) => {
   //     console.log('user typed email :', value);
   //   }
-  // }}
+  // }} 
     links={[
       {
         url: 'https://www.facebook.com/trifenix.io',
