@@ -21,18 +21,12 @@ const App = () => (
       }
     }}
     description={{
-      text: 'Nuestro sitio se esta actualizando. Suscribanse para más información sobre nuestro proyecto, siguenos por las redes sociales.',
+      text: 'Nuestro sitio se esta actualizando. Siguenos por las redes sociales.',
       style: {
         maxWidth: '880px',
       }
     }}
-  //subscribe={{
-  //   placeholder: 'Ingresa tu correo',
-  //  buttonText: 'Saber más ...',
-  //  onSubmit: (value) => {
-  //     console.log('user typed email :', value);
-  //   }
-  // }} 
+  
     links={[
       {
         url: 'https://www.facebook.com/trifenix.io',
