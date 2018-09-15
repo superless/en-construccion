@@ -2,21 +2,21 @@
   "name": "enconstruccion",
   "version": "1.0.0",
   "description": "pagina en construccion",
-  "main": "build/index.js",
+  
   "scripts": {
     "start": "node scripts/start.js",
-    "build": "node scripts/build.js",
+    "build": "react-scripts build",
     "test": "node scripts/test.js --env=jsdom"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trifenix/enconstruccion.git"
+    "url": ""
   },
   "author": "Trifenix <hola@trifenix.com>",
   "bugs": {
     "url": "https://github.com/trifenix/enconstruccion/issues"
   },
-  "homepage": "https://github.com/trifenix/enconstruccion#readme",
+  "homepage": "",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
@@ -57,7 +57,8 @@
     "webpack": "3.8.1",
     "webpack-dev-server": "2.9.4",
     "webpack-manifest-plugin": "1.3.2",
-    "whatwg-fetch": "2.0.3"
+    "whatwg-fetch": "2.0.3",
+    "react-scripts": "1.1.5"
   },
   "peerDependencies": {
     "react": ">=0.14",

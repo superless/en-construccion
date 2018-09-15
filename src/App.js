@@ -1,5 +1,5 @@
 import React from 'react';
-import UnderConstruction from '../lib';
+import UnderConstruction from './lib';
 import logo from './logo3.png';
 
 const App = () => (
@@ -14,7 +14,7 @@ const App = () => (
       }
     }}
     logo={{
-      src: logo,
+      src:logo,
       alt: 'logo',
       style: {
         width: '280px'
