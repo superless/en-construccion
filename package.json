@@ -1,6 +1,6 @@
 {
-  "name": "react-under-construction",
-  "version": "0.3.0",
+  "name": "enconstruccion",
+  "version": "1.0.0",
   "description": "pagina en construccion",
   "main": "build/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/trifenix/enconstruccion/issues"
   },
-  "homepage": "https://www.trifenix.io/index.html",
+  "homepage": "https://github.com/trifenix/enconstruccion#readme",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
