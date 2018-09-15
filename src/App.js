@@ -17,7 +17,7 @@ const App = () => (
       src:logo,
       alt: 'logo',
       style: {
-        width: '280px'
+        width: '230px'
       }
     }}
     description={{
@@ -26,13 +26,13 @@ const App = () => (
         maxWidth: '880px',
       }
     }}
-    subscribe={{
-      placeholder: 'Ingresa tu correo',
-      buttonText: 'Saber más ...',
-      onSubmit: (value) => {
-        console.log('user typed email :', value);
-      }
-    }}
+  //subscribe={{
+  //   placeholder: 'Ingresa tu correo',
+  //  buttonText: 'Saber más ...',
+  //  onSubmit: (value) => {
+  //     console.log('user typed email :', value);
+  //   }
+  // }}
     links={[
       {
         url: 'https://www.facebook.com/trifenix.io',
