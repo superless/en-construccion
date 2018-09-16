@@ -1,6 +1,21 @@
-<<<<<<< HEAD
-# enconstruccion
-=======
-# en-construccion
+
+# Código Abierto Página en Construcción
+==========================================
 Sitio en Construcción con Redes Sociales
->>>>>>> b3d783dce49760d0627381546f82232876230232
+
+Licencia MIT
+
+TRIFENIX
+
+Instalación:
+- Clonar proyecto
+- Ingresar a carpeta del proyecto
+cd en-construcción
+- Instalar módulos de Node.js
+npm install
+- Instalar Serve
+npm install serve -g
+- Construir el sitio
+serve build
+- Ingresar al sitio por el puerto 5000
+http://localhost:5000
