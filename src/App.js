@@ -21,7 +21,7 @@ const App = () => (
       }
     }}
     description={{
-      text: 'Nuestro sitio se esta actualizando. Siguenos por las redes sociales.',
+      text: '',
       style: {
         maxWidth: '880px',
       }
