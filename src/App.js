@@ -17,7 +17,7 @@ const App = () => (
       src:logo,
       alt: 'logo',
       style: {
-        width: '230px'
+        width: '330px'
       }
     }}
     description={{
