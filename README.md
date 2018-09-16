@@ -1,21 +1,21 @@
 
 # Código Abierto Página en Construcción
-==========================================
-Sitio en Construcción con Redes Sociales
+</p>
+<b>Sitio en Construcción con Redes Sociales </b>
 
 Licencia MIT
 
-TRIFENIX
+<b>TRIFENIX<b> 
 
-Instalación:
-- Clonar proyecto
-- Ingresar a carpeta del proyecto
-cd en-construcción
-- Instalar módulos de Node.js
-npm install
-- Instalar Serve
-npm install serve -g
-- Construir el sitio
-serve build
-- Ingresar al sitio por el puerto 5000
+Instalación: </p>
+- Clonar proyecto </p>
+- Ingresar a carpeta del proyecto </p>
+cd en-construccion </p>
+- Instalar módulos de Node.js </p>
+npm install </p>
+- Instalar Serve </p>
+npm install serve -g </p>
+- Construir el sitio </p>
+serve build </p>
+- Ingresar al sitio por el puerto 5000 </p>
 http://localhost:5000
