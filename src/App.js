@@ -49,7 +49,7 @@ const App = () => (
         image: 'https://www.shareicon.net/download/2016/07/06/109125_media_512x512.png',
         },
        {
-        url: 'https://www.youtube.com/trifenix_io',
+        url: 'https://www.youtube.com/channel/UCfMZ12REWKSh-RGYmGhJxkA',
         image: 'https://www.shareicon.net/download/2015/09/29/109083_media.svg',
        },
        {
