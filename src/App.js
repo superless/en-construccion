@@ -48,10 +48,10 @@ const App = () => (
         url: 'https://www.github.com/trifenix/',
         image: 'https://www.shareicon.net/download/2016/07/06/109125_media_512x512.png',
         },
-       {
-        url: 'https://www.youtube.com/channel/UCfMZ12REWKSh-RGYmGhJxkA',
-        image: 'https://www.shareicon.net/download/2015/09/29/109083_media.svg',
-       },
+ #      {
+#        url: 'https://www.youtube.com/channel/UCfMZ12REWKSh-RGYmGhJxkA',
+ #       image: 'https://www.shareicon.net/download/2015/09/29/109083_media.svg',
+  #     },
        {
         url: 'mailto:hola@trifenix.com',
         image: 'https://www.shareicon.net/download/2015/09/29/109145_media.svg',
