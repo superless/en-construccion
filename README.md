@@ -13,9 +13,9 @@ Instalación: </p>
 cd en-construccion </p>
 - Instalar módulos de Node.js </p>
 npm install </p>
-- Instalar Serve </p>
-npm install serve -g </p>
-- Construir el sitio </p>
-serve build </p>
+- Iniciar Serve, si no lo tienes instalalo </p>
+npm install serve </p>
+- Iniciar el sitio </p>
+serve -s build </p>
 - Ingresar al sitio por el puerto 5000 </p>
 http://localhost:5000
